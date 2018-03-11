@@ -1,0 +1,5 @@
+/home/shrexpecial/RiderProjects/Lists/LongestSequence/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/shrexpecial/RiderProjects/Lists/LongestSequence/bin/Debug/LongestSequence.exe.mdb
+/home/shrexpecial/RiderProjects/Lists/LongestSequence/bin/Debug/LongestSequence.exe
+/home/shrexpecial/RiderProjects/Lists/LongestSequence/obj/Debug/LongestSequence.exe
+/home/shrexpecial/RiderProjects/Lists/LongestSequence/obj/Debug/LongestSequence.exe.mdb

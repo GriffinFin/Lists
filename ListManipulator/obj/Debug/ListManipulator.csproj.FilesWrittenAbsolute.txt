@@ -1,0 +1,5 @@
+/home/shrexpecial/RiderProjects/Lists/ListManipulator/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/shrexpecial/RiderProjects/Lists/ListManipulator/bin/Debug/ListManipulator.exe.mdb
+/home/shrexpecial/RiderProjects/Lists/ListManipulator/bin/Debug/ListManipulator.exe
+/home/shrexpecial/RiderProjects/Lists/ListManipulator/obj/Debug/ListManipulator.exe
+/home/shrexpecial/RiderProjects/Lists/ListManipulator/obj/Debug/ListManipulator.exe.mdb

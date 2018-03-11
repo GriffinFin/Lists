@@ -1,0 +1,5 @@
+/home/shrexpecial/RiderProjects/Lists/SearchForANum/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/shrexpecial/RiderProjects/Lists/SearchForANum/bin/Debug/SearchForANum.exe.mdb
+/home/shrexpecial/RiderProjects/Lists/SearchForANum/bin/Debug/SearchForANum.exe
+/home/shrexpecial/RiderProjects/Lists/SearchForANum/obj/Debug/SearchForANum.exe
+/home/shrexpecial/RiderProjects/Lists/SearchForANum/obj/Debug/SearchForANum.exe.mdb

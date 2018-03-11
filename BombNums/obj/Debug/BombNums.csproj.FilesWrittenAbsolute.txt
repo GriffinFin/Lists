@@ -1,0 +1,5 @@
+/home/shrexpecial/RiderProjects/Lists/BombNums/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/shrexpecial/RiderProjects/Lists/BombNums/bin/Debug/BombNums.exe.mdb
+/home/shrexpecial/RiderProjects/Lists/BombNums/bin/Debug/BombNums.exe
+/home/shrexpecial/RiderProjects/Lists/BombNums/obj/Debug/BombNums.exe
+/home/shrexpecial/RiderProjects/Lists/BombNums/obj/Debug/BombNums.exe.mdb

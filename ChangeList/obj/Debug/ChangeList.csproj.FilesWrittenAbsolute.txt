@@ -1,0 +1,5 @@
+/home/shrexpecial/RiderProjects/Lists/ChangeList/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/shrexpecial/RiderProjects/Lists/ChangeList/bin/Debug/ChangeList.exe.mdb
+/home/shrexpecial/RiderProjects/Lists/ChangeList/bin/Debug/ChangeList.exe
+/home/shrexpecial/RiderProjects/Lists/ChangeList/obj/Debug/ChangeList.exe
+/home/shrexpecial/RiderProjects/Lists/ChangeList/obj/Debug/ChangeList.exe.mdb

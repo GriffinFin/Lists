@@ -1,0 +1,5 @@
+/home/shrexpecial/RiderProjects/Lists/RemoveAndReverse/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/shrexpecial/RiderProjects/Lists/RemoveAndReverse/bin/Debug/RemoveAndReverse.exe.mdb
+/home/shrexpecial/RiderProjects/Lists/RemoveAndReverse/bin/Debug/RemoveAndReverse.exe
+/home/shrexpecial/RiderProjects/Lists/RemoveAndReverse/obj/Debug/RemoveAndReverse.exe
+/home/shrexpecial/RiderProjects/Lists/RemoveAndReverse/obj/Debug/RemoveAndReverse.exe.mdb

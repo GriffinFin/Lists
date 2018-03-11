@@ -1,0 +1,5 @@
+/home/shrexpecial/RiderProjects/Lists/SumAdjacent/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/shrexpecial/RiderProjects/Lists/SumAdjacent/bin/Debug/SumAdjacent.exe.mdb
+/home/shrexpecial/RiderProjects/Lists/SumAdjacent/bin/Debug/SumAdjacent.exe
+/home/shrexpecial/RiderProjects/Lists/SumAdjacent/obj/Debug/SumAdjacent.exe
+/home/shrexpecial/RiderProjects/Lists/SumAdjacent/obj/Debug/SumAdjacent.exe.mdb

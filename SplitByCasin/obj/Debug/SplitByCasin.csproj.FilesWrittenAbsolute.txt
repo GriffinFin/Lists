@@ -1,0 +1,5 @@
+/home/shrexpecial/RiderProjects/Lists/SplitByCasin/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/shrexpecial/RiderProjects/Lists/SplitByCasin/bin/Debug/SplitByCasing.exe.mdb
+/home/shrexpecial/RiderProjects/Lists/SplitByCasin/bin/Debug/SplitByCasing.exe
+/home/shrexpecial/RiderProjects/Lists/SplitByCasin/obj/Debug/SplitByCasing.exe
+/home/shrexpecial/RiderProjects/Lists/SplitByCasin/obj/Debug/SplitByCasing.exe.mdb

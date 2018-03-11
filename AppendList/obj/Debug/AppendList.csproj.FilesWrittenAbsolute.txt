@@ -1,0 +1,5 @@
+/home/shrexpecial/RiderProjects/Lists/AppendList/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/shrexpecial/RiderProjects/Lists/AppendList/bin/Debug/AppendList.exe.mdb
+/home/shrexpecial/RiderProjects/Lists/AppendList/bin/Debug/AppendList.exe
+/home/shrexpecial/RiderProjects/Lists/AppendList/obj/Debug/AppendList.exe
+/home/shrexpecial/RiderProjects/Lists/AppendList/obj/Debug/AppendList.exe.mdb

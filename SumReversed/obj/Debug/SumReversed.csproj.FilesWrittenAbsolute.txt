@@ -1,0 +1,5 @@
+/home/shrexpecial/RiderProjects/Lists/SumReversed/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/shrexpecial/RiderProjects/Lists/SumReversed/bin/Debug/SumReversed.exe.mdb
+/home/shrexpecial/RiderProjects/Lists/SumReversed/bin/Debug/SumReversed.exe
+/home/shrexpecial/RiderProjects/Lists/SumReversed/obj/Debug/SumReversed.exe
+/home/shrexpecial/RiderProjects/Lists/SumReversed/obj/Debug/SumReversed.exe.mdb
